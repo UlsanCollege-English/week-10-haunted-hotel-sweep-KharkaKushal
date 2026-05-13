@@ -1,6 +1,6 @@
 """Tests for Week 10 Coding #8: Haunted Hotel Sweep."""
 
-from challenges import (
+from src.challenges import (
     bfs_order,
     count_reachable_areas,
     dfs_order,
